@@ -34,8 +34,8 @@ https://official-joke-api.appspot.com/random_joke
 
 ### You can Check it Live on Below Link :
 
-[Live Link !](https://react-random-joke.vercel.app//)
+[Live Link !](https://react-random-joke.vercel.app/)
 
 ### Demo :
 
-![App Image](https://github.com/anitha-nagadasarink/react-random-joke/tree/main/demo.PNG)
+![App Image](https://github.com/anitha-nagadasarink/react-random-joke/blob/main/demo.PNG)
