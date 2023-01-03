@@ -2,7 +2,7 @@
 
 ![badge](https://img.shields.io/badge/iNeuron-LCO-green) ![badge](https://img.shields.io/badge/Hitesh%20Choudary-Anurag%20Tiwari-orange)
 
-This project developed with pure HTML and CSS mainly focused on Pure Javascript. <br/>
+This project developed with pure HTML, ReactJs and Tailwind CSS mainly focused on Pure ReactJs. <br/>
 
 Random joke generated using below API <br/>
 https://official-joke-api.appspot.com/random_joke
@@ -34,8 +34,8 @@ https://official-joke-api.appspot.com/random_joke
 
 ### You can Check it Live on Below Link :
 
-[Live Link !](https://random-joke-generator-js.netlify.app/)
+[Live Link !](https://react-random-joke.vercel.app//)
 
 ### Demo :
 
-![App Image](https://github.com/anitha-nagadasarink/random-joke-generator-using-API/blob/Javascript-projects/Image/demo.PNG)
+![App Image](https://github.com/anitha-nagadasarink/react-random-joke/tree/main/demo.PNG)
